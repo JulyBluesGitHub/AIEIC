@@ -1,1 +1,1 @@
-
+I made a folder for an initial prompt while our customGPT is still being created. This allows us to have a base prompt for all of us to use. It is not yet uploaded, however when one is available we upload it here. 
