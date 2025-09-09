@@ -1,2 +1,5 @@
 # AIEIC
-Hello everyone, this is currently a test repositiory. I want to see if everyone is able to comfortably find the information. In the future, everyone will create their own branch. In our branch we are able to "push" our changes. Pushing changes to our individual branches allow us to tinker with the main material without changing it under the main branch. This means that the next person can create an original copy even after you've made changes. When the group has come to a consensus we can commit the new changes to the main branch. 
+Hello everyone, this is currently a test repositiory. I want to see if everyone is able to comfortably find the information. In the future, everyone will create their own branch. In our branch we are able to "push" our changes. Pushing changes to our individual branches allow us to tinker with the main material without changing it under the main branch. This means that the next person can create an original copy even after you've made changes. When the group has come to a consensus we can commit the new changes to the main branch.    
+
+
+Each folder currently has a README.md file that will hold information on what you can find there. 
